@@ -100,7 +100,7 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: wedog  # github username
 
 # Comment
 # Gitment
@@ -168,20 +168,20 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: wedog
+  author_title: Web Developer
+  author_description: Web front-end development。
+  location: Chengdu, China
+  follow: https://github.com/wedog
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      github: https://github.com/wedog
+      #weibo: https://github.com/wedog
+      #twitter: https://github.com/wedog
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
+      #behance: https://github.com/wedog
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -191,15 +191,14 @@ profile:
     Javascript: ★★★☆☆
     HTML+CSS: ★★★☆☆
     Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    Node.js: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/wedog
+    #Blog: https://github.com/wedog
+    #微博: https://github.com/wedog
+    #花瓣: https://github.com/wedog
+    #Behance: https://github.com/wedog
   # My Personal Labels
   labels:
     - 前端
@@ -210,9 +209,9 @@ profile:
   # My Personal Works
   works:
     name:
-      link: http://www.example.com
+      link: https://wedog.github.io/
       date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    wedog/koa-nginx: https://github.com/wedog/koa-nginx
+    wedog/quasar: https://github.com/wedog/quasar
