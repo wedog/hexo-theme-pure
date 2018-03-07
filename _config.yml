@@ -182,7 +182,7 @@ profile:
       # facebook: /
       # dribbble: /
       #behance: https://github.com/wedog
-      rss: atom.xml
+      #rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
